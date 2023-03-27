@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <Head>
+
+        <h1> ZERYAM ART</h1>
+        <p>Welcome!</p>
+    </Head>
+</body>
+
+</html>
